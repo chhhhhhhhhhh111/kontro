@@ -1,0 +1,23 @@
+[
+  {
+    "pinned": true,
+    "author": "nex0coded",
+    "date": "17.11.2026",
+    "text": "Kontro 1.4 is live!\nCustom icons, unlimited keybindings, soundboard straight into your microphone, and a brand-new look. Grab the latest Studio and launcher from the download page.\nhttps://github.com/chhhhhhhhhhh111/kontro",
+    "image": "none"
+  },
+  {
+    "pinned": false,
+    "author": "nex0coded",
+    "date": "12.11.2026",
+    "text": "Новое обновление уже на сайте!\nТеперь можно выбирать поведение при запуске приложения: поднять окно поверх остальных или открыть заново. Добавлены системные команды (скриншот, рабочий стол, блокировка и другие).\nhttps://github.com/chhhhhhhhhhh111/kontro",
+    "image": "none"
+  },
+  {
+    "pinned": false,
+    "author": "nex0coded",
+    "date": "09.11.2026",
+    "text": "Soundboard update\nClips now play into your microphone AND your headphones at the same time, so you always hear what your chat hears.",
+    "image": "https://i.pinimg.com/736x/bf/d0/98/bfd0987903fe1d3cb8aea6d6bb2ec151.jpg"
+  }
+]
